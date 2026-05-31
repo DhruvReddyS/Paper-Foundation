@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "how-paper-recycling-works-in-india",
+    "title": "How Paper Recycling Actually Works in India",
+    "category": "recycling",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "From your kabadiwala's cart to a mill's recovery boiler — a step-by-step look at how India recovers, sorts and reuses paper fibre, and why the system is more circular than most people think.",
+    "body": "<p>If you ask most readers how paper recycling works in India, the answers are vague. Some people think it barely happens; others assume tidy municipal systems do the work. Both are wrong. The reality is a vast, mostly-informal recovery chain that quietly handles tens of millions of tonnes of paper each year — and a set of integrated mills that turn it back into new paper.</p><p>This article walks through the whole chain, with sources.</p><h2>The recovery chain begins at the doorstep</h2><p>India's paper recovery system is overwhelmingly driven by waste-pickers and kabadiwalas. According to industry estimates from CPPRI and field studies by TERI, somewhere between 1.5 and 4 million people work across India's informal waste recovery system<sup data-cite=\"1\">[1]</sup>. Paper — being light, recognisable and reliably valuable — is one of the highest-yield streams they handle.</p><p>The chain typically looks like this:</p><ul><li>Households and offices sell or hand over paper to kabadiwalas.</li><li>Kabadiwalas aggregate and sort by grade (newsprint, office, mixed, cardboard).</li><li>Sorted bales move to medium-sized recovery hubs across major cities.</li><li>From there, bales travel to paper mills — or, in some cases, to ports for export.</li></ul><h2>Why grade-sorting matters</h2><p>Paper isn't a single material. A mill making fine writing paper cannot simply pulp old corrugated boxes. Different grades — newsprint, office white, kraft, mixed — have different fibre length, ink content, contamination tolerance and price. A surprisingly large share of what makes the Indian system efficient is the fine-grained sorting that informal aggregators do almost reflexively, by feel.</p><h2>Inside the mill</h2><p>At a paper mill, recovered fibre goes through pulping (where bales are soaked and broken down), screening (where contaminants are removed), de-inking (for grades that require it), and then washing and refining before going into the paper machine itself. Each cycle damages fibre slightly — typically a piece of cellulose can survive 4 to 7 recycling cycles before it becomes too short to make strong paper<sup data-cite=\"2\">[2]</sup>. This is why a healthy paper system needs both recovered fibre and a steady supply of fresh fibre.</p><h2>Indian recovery is rising — but starts from a lower base</h2><p>CPPRI data places India's domestic paper recovery rate at roughly 30%<sup data-cite=\"3\">[3]</sup>. That's well below European averages (which exceed 70%<sup data-cite=\"4\">[4]</sup>), but it understates the picture in two ways. First, around 60% of fibre furnish used by Indian mills is recycled — much of the gap is met by imported recovered paper, primarily from the US and EU. Second, India's collection system is genuinely more labour-driven and granular than richer countries' kerbside systems, which means many materials get diverted from disposal long before any official 'recycling' count starts.</p><h2>What EPR is changing</h2><p>The Ministry of Environment, Forest and Climate Change (MoEFCC) notified Extended Producer Responsibility (EPR) rules covering plastic packaging in 2022, with paper packaging being progressively brought into the same framework<sup data-cite=\"5\">[5]</sup>. The idea is simple: brand owners and producers carry obligations to recover and recycle a percentage of the packaging they put on the market. Implementation is uneven, and a healthy debate continues about how informal recyclers are compensated under the rules. But the regulatory direction is now firmly set: producers cannot wash their hands of packaging once it leaves the shelf.</p><h2>Where the system still falls short</h2><p>Three honest gaps:</p><ol><li><strong>Mixed paper.</strong> Multi-laminate cartons (juice boxes, food wraps with plastic or aluminium layers) are technically recyclable but practically difficult. Capacity for separating them is limited.</li><li><strong>Wage and welfare.</strong> Informal workers carry the chain on their backs but capture a fraction of the value. Many cities are slowly integrating wastepickers into formal EPR systems — Bengaluru and Indore have made measurable progress<sup data-cite=\"6\">[6]</sup>.</li><li><strong>Quality-grade fine paper.</strong> Some grades (premium printing, certain hygiene products) need long fibre, and recovered fibre cannot meet that requirement alone.</li></ol><h2>The bottom line</h2><p>India's paper recovery system is bigger, more circular and more sophisticated than the popular narrative suggests — and it is also held together by informal labour that deserves both higher pay and better protection. Both can be true at once. Recognising both is the first step to a paper system that is genuinely sustainable, not just rhetorically so.</p>",
+    "references": [
+      { "title": "Industry data on informal recovery workforce", "org": "CPPRI / TERI", "url": "https://cppri.res.in/", "note": "Industry estimates and TERI field studies." },
+      { "title": "Recycling cycles for cellulose fibre", "org": "CEPI", "url": "https://www.cepi.org/recycling/", "note": "Fibre cycle limits." },
+      { "title": "Domestic paper recovery rate, India", "org": "CPPRI", "url": "https://cppri.res.in/" },
+      { "title": "European paper recovery rate", "org": "CEPI Key Stats", "url": "https://www.cepi.org/key-statistics/" },
+      { "title": "EPR notifications", "org": "MoEFCC", "url": "https://moef.gov.in/" },
+      { "title": "EPR integration of waste-pickers", "org": "WIEGO / AIW", "url": "https://www.wiego.org/" }
+    ],
+    "tags": ["recycling", "EPR", "India", "informal sector"],
+    "quickRead": false,
+    "featured": true,
+    "status": "published",
+    "publishedAt": "2025-02-12T09:00:00.000Z"
+  },
+  {
+    "slug": "the-carbon-story-of-paper",
+    "title": "The Carbon Story of Paper: A Lifecycle View",
+    "category": "research",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "Paper's footprint isn't a single number. It depends on fibre origin, mill energy mix, transport, use phase and end-of-life. A patient walk through what lifecycle assessment (LCA) actually shows.",
+    "body": "<p>Almost everything you read about paper's carbon footprint is either an industry-friendly average or an activist-friendly worst case. Both are answers to slightly the wrong question. The right question is: <em>which</em> paper, made <em>how</em>, used <em>for what</em>, and disposed of <em>where</em>?</p><h2>Where the carbon comes from</h2><p>A lifecycle assessment (LCA) of paper traces emissions across five stages:</p><ol><li>Fibre source (forestry, agri-residue or recovered paper).</li><li>Pulping and bleaching.</li><li>Paper machine energy use.</li><li>Transport and conversion.</li><li>End-of-life: recycling, landfill, incineration or composting.</li></ol><p>Different paper grades concentrate their footprint in different stages. Newsprint is energy-intensive at the machine. Tissue is fibre-intensive. Long-life packaging often shifts impact toward transport.</p><h2>Fibre origin matters more than substrate</h2><p>Virgin-versus-recycled is the dominant framing in public conversation, but LCA suggests fibre <em>origin</em> and <em>energy</em> often dominate more than the virgin/recycled binary. An ECF-bleached virgin mill running on biomass or low-carbon grid can outperform a recycled mill running on coal-heavy grid power.</p><p>This is one of the major findings of the US EPA's Waste Reduction Model (WARM)<sup data-cite=\"1\">[1]</sup> and CEPI's lifecycle reporting<sup data-cite=\"2\">[2]</sup>. Both confirm recycled paper is generally lower-impact, but the size of the gap varies enormously with where and how the paper is made.</p><h2>Biogenic carbon is real, and accounted for</h2><p>Wood-based paper stores biogenic carbon for the duration of the product's use, and the IPCC's Harvested Wood Products methodology recognises this in national accounting<sup data-cite=\"3\">[3]</sup>. This doesn't make paper carbon-neutral, but it does mean simple 'cut tree, release carbon' accounting overstates emissions.</p><h2>End-of-life is often the swing variable</h2><p>The same sheet of paper that is composted in one city and landfilled in another can have a very different lifecycle profile. Landfilled paper under anaerobic conditions produces methane — a powerful greenhouse gas. Recycled or incinerated paper avoids that. This is one reason recycling rate matters for climate, not only for resource circularity.</p><h2>The honest summary</h2><p>For most general-purpose paper grades, recycled paper is lower-impact than virgin. But the spread within each category is wide enough that buying decisions which ignore fibre origin, mill energy mix and end-of-life are leaving most of the available improvement on the table. \"Buy recycled\" is a sensible default; \"buy from a low-carbon-grid mill with verified recycled or certified fibre and a recovery system at the destination\" is what genuine improvement looks like.</p>",
+    "references": [
+      { "title": "WARM Model documentation", "org": "US EPA", "url": "https://www.epa.gov/warm" },
+      { "title": "CEPI Sustainability Reports", "org": "CEPI", "url": "https://www.cepi.org/sustainability/" },
+      { "title": "IPCC Guidelines, Vol. 4, Ch. 12 — Harvested Wood Products", "org": "IPCC", "url": "https://www.ipcc-nggip.iges.or.jp/" }
+    ],
+    "tags": ["carbon", "lifecycle", "LCA"],
+    "quickRead": false,
+    "featured": true,
+    "status": "published",
+    "publishedAt": "2025-03-05T09:00:00.000Z"
+  },
+  {
+    "slug": "is-digital-always-greener-than-paper",
+    "title": "Is Digital Always Greener Than Paper?",
+    "category": "digital-vs-paper",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "The 'go paperless to save the planet' line has been repeated so often it feels obvious. The lifecycle evidence is more careful — and in some cases, it doesn't say what people assume.",
+    "body": "<p>One of the most-repeated lines in corporate environmental communication is some version of 'go paperless to save the planet.' It is intuitive, it sounds modern, and — at the scale of an entire organisation — it can be wildly misleading.</p><h2>Digital has its own footprint</h2><p>The Shift Project's <em>Lean ICT</em> report estimated that information and communication technology accounts for roughly 3–4% of global greenhouse gas emissions, and that this share is rising fast<sup data-cite=\"1\">[1]</sup>. Device manufacturing dominates the impact of personal electronics; data centres and networks dominate the impact of cloud services.</p><h2>The replacement question</h2><p>The right comparison isn't 'paper or not'. It's 'paper, versus the digital substitute that actually replaces it'. If a 200-page report is read once on a brand-new tablet, the impact comparison changes. If the same report is read across hundreds of devices and stored on highly utilised cloud infrastructure, the comparison again changes. Cleantech Group's analyses of e-readers suggest the device 'breaks even' against an equivalent number of printed books somewhere between 30 and 100 books read<sup data-cite=\"2\">[2]</sup> — and only if the device isn't replaced quickly.</p><h2>Reading comprehension is not equivalent</h2><p>Cognition research has settled on a small but reliable 'screen inferiority effect' for comprehension of long expository text — particularly under time pressure. Delgado and colleagues' 2018 meta-analysis of 54 studies found that paper outperformed screens on most comprehension measures<sup data-cite=\"3\">[3]</sup>. This isn't an argument against digital, but it does complicate any blanket claim that 'screens equal paper for any purpose'.</p><h2>Where digital wins clearly</h2><ul><li>High-frequency information that gets stale fast (news, schedules).</li><li>Searchable archives that would require huge volumes of paper otherwise.</li><li>Single-use replacements (e-tickets, OTPs, digital receipts).</li></ul><h2>Where paper still wins or ties</h2><ul><li>Long-form study material, especially under time-pressured comprehension.</li><li>Documents with very short circulation but long retention need.</li><li>Contexts where device manufacturing and replacement would dwarf the substitution gain.</li></ul><h2>The honest answer</h2><p>'Going digital saves the planet' is not a finding; it is an unverified hypothesis. For some use cases it's clearly true. For others it is, at best, neutral. Sober teams measure both sides before claiming a substitution win.</p>",
+    "references": [
+      { "title": "Lean ICT — Towards Digital Sobriety", "org": "The Shift Project", "url": "https://theshiftproject.org/en/lean-ict-2/" },
+      { "title": "E-reader LCAs", "org": "Cleantech Group / academic LCAs", "url": "https://www.cleantech.com/" },
+      { "title": "Don't throw away your printed books — meta-analysis", "org": "Delgado et al., Educational Research Review 2018", "url": "https://doi.org/10.1016/j.edurev.2018.09.003" }
+    ],
+    "tags": ["digital", "lifecycle", "research"],
+    "quickRead": true,
+    "featured": true,
+    "status": "published",
+    "publishedAt": "2025-03-22T09:00:00.000Z"
+  },
+  {
+    "slug": "agri-residue-to-paper",
+    "title": "Agri-Residue to Paper: India's Quiet Advantage",
+    "category": "industry",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "India is one of the largest producers of agri-residue-based paper in the world. Wheat straw and bagasse mills turn what would otherwise be burnt crop waste into industrial-grade paper — at scale.",
+    "body": "<p>Every winter, smoke from burning crop residue blankets parts of north India. Most of it comes from wheat and rice straw that has nowhere obvious to go. A small but globally important Indian industry takes that same residue, pulps it, and turns it into paper. This article is about that industry, what it gets right, and where it still struggles.</p><h2>What counts as agri-residue paper</h2><p>The main feedstocks are wheat straw, rice straw, sugarcane bagasse and occasionally jute and kenaf. Mills designed around these residues exist across Punjab, Haryana, Uttar Pradesh, Maharashtra and the southern sugarcane belt. CPPRI's industry reporting identifies agri-residue mills as a major contributor to Indian paper capacity<sup data-cite=\"1\">[1]</sup>.</p><h2>Why it matters environmentally</h2><p>Burning of crop residue is one of the most visible air-pollution problems in north Indian cities each year<sup data-cite=\"2\">[2]</sup>. Any productive use of that residue — paper, energy, animal feed — directly displaces burning. Agri-residue paper, in particular, captures the residue's value as fibre rather than emissions.</p><h2>Why it isn't bigger</h2><p>Three honest constraints:</p><ol><li><strong>Silica content.</strong> Wheat and rice straw have high silica, which complicates chemical recovery and adds cost. Bagasse is friendlier.</li><li><strong>Seasonality.</strong> Crop residue is harvested in concentrated windows; mills must store volumes that aren't easy to handle.</li><li><strong>Water and effluent.</strong> Straw-based mills historically had higher water and effluent loads per tonne. Modern mills meet CPCB norms, but the legacy of older units shapes the public picture.</li></ol><h2>What good policy looks like</h2><p>Procurement floor prices that make residue more valuable as fibre than as fuel; targeted credit for closed-loop water systems; and clear sustainability claims for downstream brands that buy agri-residue paper. None of this is exotic. Indian mills could be a meaningful piece of any honest paper-sustainability story — if the conversation didn't get stuck at 'paper = trees.'</p>",
+    "references": [
+      { "title": "CPPRI industry reporting on agri-residue mills", "org": "CPPRI", "url": "https://cppri.res.in/" },
+      { "title": "Crop-residue burning and air quality, India", "org": "MoEFCC / CPCB", "url": "https://cpcb.nic.in/" }
+    ],
+    "tags": ["India", "agri-residue", "industry"],
+    "quickRead": false,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "forests-plantations-pulp",
+    "title": "Forests, Plantations, and the Pulp Question",
+    "category": "forests",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "Cutting a tree is not the same as deforestation. Distinguishing native forest loss from rotational plantation harvest is the single most important thing to get right when thinking about paper and forests.",
+    "body": "<p>One of the most common misunderstandings about paper is the equation \"a tree was cut, so a forest was destroyed.\" The data say otherwise. Most pulpwood, globally and in India, comes from <em>plantations</em> — trees specifically planted to be harvested, like any other crop.</p><h2>What the FAO data show</h2><p>The FAO's Global Forest Resources Assessment 2020 distinguishes between primary forest, naturally regenerating forest, and planted forest. Planted forests covered approximately 290 million hectares globally as of 2020<sup data-cite=\"1\">[1]</sup>. These are managed for periodic harvest; their existence depends on continued demand for forest products.</p><h2>India's farm-forestry story</h2><p>India's pulpwood story is unusual: most of it comes from <em>private farmer land</em>, not government forests. Eucalyptus, casuarina, subabul, poplar — planted in rotation by farmers in Andhra Pradesh, Tamil Nadu, Punjab, Haryana, Gujarat — feed Indian mills<sup data-cite=\"2\">[2]</sup>. This farm-forestry is a real income stream for lakhs of farmers, and it removes pulp demand from natural-forest areas almost entirely.</p><h2>Where the legitimate concern remains</h2><p>None of this is to say all wood-pulp is benign. Several supply chains globally — particularly in parts of Southeast Asia — remain associated with native forest loss. FSC and PEFC certification systems are imperfect but have measurably reduced this risk in covered concessions. The right framing is therefore not \"paper destroys forests\" but \"some paper chains have a forest problem; most do not; here's how to tell the difference.\"</p><h2>The practical lens</h2><p>If you want to make a defensible paper choice from a forest standpoint:</p><ul><li>Prefer recycled-fibre or certified virgin fibre.</li><li>For Indian sourcing, prefer agri-residue or farm-forestry origins — these are documented and visible in mill disclosures.</li><li>Treat 'tree-free' marketing as a starting point, not a verdict.</li></ul>",
+    "references": [
+      { "title": "Global Forest Resources Assessment 2020", "org": "FAO", "url": "https://www.fao.org/forest-resources-assessment/2020/en/" },
+      { "title": "Farm-forestry plantations and pulpwood in India", "org": "ICFRE / IPMA", "url": "https://icfre.gov.in/" }
+    ],
+    "tags": ["forests", "plantations", "FSC"],
+    "quickRead": false,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "epr-paper-packaging-india",
+    "title": "EPR for Paper Packaging in India: What Changed in 2022",
+    "category": "policy",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "The 2022 EPR notifications quietly redrew the rules for who is responsible for packaging waste in India. A plain-English explainer.",
+    "body": "<p>In 2022, the Ministry of Environment, Forest and Climate Change notified Extended Producer Responsibility rules under the Plastic Waste Management framework, with parallel and subsequent guidelines bringing paper packaging into the same regulatory architecture<sup data-cite=\"1\">[1]</sup>. The shift is real — but easy to miss if you aren't watching producer disclosures.</p><h2>Who is responsible</h2><p>Producers, importers and brand owners (\"PIBOs\") carry obligations to recover and recycle a percentage of the packaging they place on the market, tracked through a central online system. The targets phase upward year by year.</p><h2>What it changed in practice</h2><ul><li>Brand owners cannot quietly externalise packaging waste to municipalities.</li><li>A formal market for recovered packaging has begun to take shape, with traceable certificates.</li><li>Informal recyclers are — slowly, unevenly — being brought into the formal chain.</li></ul><h2>What is contested</h2><ul><li>Whether certificate-based EPR rewards genuine recovery or paper compliance.</li><li>Whether informal workers' wages rise proportionately.</li><li>How quickly multilayer paper packaging (juice cartons, food laminates) gets meaningful recovery infrastructure.</li></ul><p>None of these are reasons to discount the framework. They are the next set of questions for anyone serious about whether the rules work.</p>",
+    "references": [
+      { "title": "EPR notifications and guidelines", "org": "MoEFCC", "url": "https://moef.gov.in/" }
+    ],
+    "tags": ["policy", "EPR", "packaging"],
+    "quickRead": true,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "recycled-not-always-better",
+    "title": "Why \"Recycled\" Doesn't Always Mean Better",
+    "category": "recycling",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "Recycled paper is usually the lower-impact choice — but not in every case. The hard cases are worth understanding so the easy cases don't get oversold.",
+    "body": "<p>Almost every reputable lifecycle assessment finds recycled paper has lower environmental impact than virgin paper for most general grades. That generalisation is real. It is also incomplete.</p><h2>Where recycled is unambiguously better</h2><p>Commodity grades — newsprint, packaging, office white — where recovery rates are high and the recycling step displaces landfill or incineration of paper that would otherwise have rotted or burnt.</p><h2>Where the picture gets complicated</h2><ul><li><strong>Energy mix.</strong> Recycling still uses energy. A recycled-paper mill running on a coal-heavy grid may match or exceed a virgin mill running on biomass<sup data-cite=\"1\">[1]</sup>.</li><li><strong>Transport.</strong> Recovered paper is heavy and bulky. Trucking it long distances can erode the recycling advantage.</li><li><strong>Fibre quality.</strong> Certain grades — premium printing, food-contact tissue, some hygiene products — need long fibre that recycled stock cannot provide alone.</li><li><strong>Biogenic carbon.</strong> Long-life virgin paper stores carbon for the duration of its use; the IPCC's Harvested Wood Products methodology accounts for this<sup data-cite=\"2\">[2]</sup>.</li></ul><h2>The point isn't to defend virgin paper</h2><p>It is to make 'buy recycled' a starting point, not the finish line. The improvements available from energy-mix changes, regional sourcing, and fibre-grade matching are usually larger than the virgin-versus-recycled swap. A bigger conversation, not a smaller one.</p>",
+    "references": [
+      { "title": "WARM Model documentation", "org": "US EPA", "url": "https://www.epa.gov/warm" },
+      { "title": "IPCC Guidelines — Harvested Wood Products", "org": "IPCC", "url": "https://www.ipcc-nggip.iges.or.jp/" }
+    ],
+    "tags": ["recycling", "lifecycle"],
+    "quickRead": false,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "informal-recovery-workforce",
+    "title": "The Informal Recovery Workforce: Numbers and Realities",
+    "category": "recycling",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "India's paper recycling rate is built on the backs of waste-pickers and kabadiwalas. A look at the size of the workforce, what they earn, and why EPR matters for them.",
+    "body": "<p>Public discussion of recycling tends to leap to bins, trucks and sorting plants. India's actual system runs on people. Understanding the size, structure and economics of that workforce is essential before discussing how it should change.</p><h2>How many people</h2><p>Estimates vary widely — TERI, ILO and WIEGO research place the size of India's informal waste recovery workforce somewhere between 1.5 and 4 million people<sup data-cite=\"1\">[1]</sup>. Paper, plastic and metal recovery sit alongside scrap collection in this informal economy.</p><h2>What they earn</h2><p>Income depends sharply on grade sorted, city, and aggregator margins. Paper is generally a higher-margin stream than mixed plastic. Even so, average earnings for full-time waste-pickers typically fall below minimum wage and often without occupational protection.</p><h2>Why EPR could change this — and why it might not</h2><p>The 2022 EPR rules introduced producer obligations and a certificate market. In principle, that creates new economic value at the recovery step. In practice, whether that value reaches the workers who do the work depends on how aggregators, processing facilities and producers structure the chain. Cities that have integrated wastepicker collectives into formal EPR systems — Bengaluru, Indore, Pune — have measurably stronger outcomes than purely top-down implementations<sup data-cite=\"2\">[2]</sup>.</p><h2>The hard truth</h2><p>India's paper recovery story is not a triumph of policy. It is a workforce-driven achievement, and policy is catching up. Any honest conversation about \"making recycling work\" in India has to start with whether the workers behind it are paid, protected, and counted.</p>",
+    "references": [
+      { "title": "Workforce estimates and conditions", "org": "TERI / WIEGO / ILO", "url": "https://www.wiego.org/" },
+      { "title": "Wastepicker integration outcomes", "org": "AIW / city studies", "url": "https://www.wiego.org/" }
+    ],
+    "tags": ["recycling", "labour", "India"],
+    "quickRead": false,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "reading-paper-vs-screen",
+    "title": "Reading on Paper vs Screen: What the Cognition Research Says",
+    "category": "research",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "The 'screen inferiority effect' is small but reproducible. A measured look at what the research actually finds — and what it doesn't.",
+    "body": "<p>Schools, publishers and corporate L&D teams routinely make decisions about printed versus digital reading material based on intuition. The cognition research is more careful — and modestly clearer — than the public conversation suggests.</p><h2>What's been found</h2><p>The most-cited meta-analysis in this area is Delgado and colleagues' 2018 review of 54 studies, published in <em>Educational Research Review</em><sup data-cite=\"1\">[1]</sup>. They found a small but reliable advantage for paper over screens on comprehension of expository (informational) text, especially when reading is time-pressured. The effect was small for narrative or simple text and grew for longer or more complex material.</p><h2>What might explain it</h2><ul><li>Better spatial mapping on paper helps readers re-locate information.</li><li>Screens tempt shallower processing — readers think they're done before they are.</li><li>Distraction risk is structurally higher on multi-purpose devices.</li></ul><h2>What it doesn't mean</h2><p>It does not mean digital reading is bad. It doesn't mean schools should ditch tablets. It does mean that 'paper or screen — same thing' is empirically false, and that decisions about study materials, exam preparation, and serious reading should treat the difference as real.</p>",
+    "references": [
+      { "title": "Don't throw away your printed books — meta-analysis of 54 studies", "org": "Delgado et al., Educational Research Review 2018", "url": "https://doi.org/10.1016/j.edurev.2018.09.003" }
+    ],
+    "tags": ["digital", "research", "reading"],
+    "quickRead": true,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "pulp-water-indian-mills",
+    "title": "Pulp, Water, and the Mill: How Indian Mills Have Changed",
+    "category": "industry",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "Water use per tonne of paper at Indian mills has dropped sharply over two decades. A look at what changed, what didn't, and what comes next.",
+    "body": "<p>Paper mills use a lot of water — that has been true historically and remains true today. The often-missed part of the story is how sharply the per-tonne number has dropped at large integrated Indian mills.</p><h2>The trend</h2><p>CPPRI's benchmark studies show specific water consumption at large Indian integrated mills has fallen roughly 40% since 2000<sup data-cite=\"1\">[1]</sup>. Continued reductions are reported in subsequent industry reviews.</p><h2>What drove the drop</h2><ul><li>Closed-loop white-water systems reduced fresh-water draw.</li><li>Tightening CPCB norms and the Charter for Water-Efficient Pulp & Paper Industry shifted investment priorities<sup data-cite=\"2\">[2]</sup>.</li><li>Better recovery boilers reduced chemical losses, which drove down both water and effluent loads.</li></ul><h2>Where it isn't enough</h2><p>Smaller and unorganised mills are typically the source of the worst-performing water and effluent profiles. Sector consolidation, stricter enforcement and EPR compliance pressure are slowly moving the picture — but not uniformly.</p>",
+    "references": [
+      { "title": "Specific water consumption benchmarks", "org": "CPPRI", "url": "https://cppri.res.in/" },
+      { "title": "Charter for Water-Efficient Pulp & Paper Industry", "org": "MoEFCC", "url": "https://moef.gov.in/" }
+    ],
+    "tags": ["water", "industry", "India"],
+    "quickRead": true,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "packaging-substitution-honest-counterpoint",
+    "title": "Packaging Substitution: When Paper Isn't the Right Answer",
+    "category": "industry",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "Switching plastic packaging to paper is sometimes a real environmental win — and sometimes it just shifts impact. The honest cases for and against.",
+    "body": "<p>An NGO writing in defence of evidence-based understanding of paper has to be willing to say the unsexy thing: paper packaging is not automatically the right substitute for plastic. Sometimes it is; sometimes it isn't; the conditions matter.</p><h2>Where the swap helps</h2><ul><li>Items at high risk of becoming marine litter (drink cup lids, light wrappers).</li><li>Products with strong existing paper-recovery chains.</li><li>Low-protection requirements that don't push paper packaging weight up.</li></ul><h2>Where the swap struggles</h2><ul><li>High-barrier needs (oxygen-sensitive food, moisture-sensitive electronics) usually demand multilayer constructions.</li><li>Long supply chains where transport weight dominates lifecycle impact.</li><li>Markets without functional paper recovery for packaging grade.</li></ul><h2>The principle</h2><p>Packaging decisions should be answered by lifecycle thinking, not substrate ideology. Paper is often a good answer. It is not always the answer. Saying both is the only honest position.</p>",
+    "references": [
+      { "title": "Substrate substitution analyses", "org": "Ellen MacArthur Foundation", "url": "https://ellenmacarthurfoundation.org/" }
+    ],
+    "tags": ["packaging", "lifecycle"],
+    "quickRead": true,
+    "featured": false,
+    "status": "draft"
+  },
+  {
+    "slug": "glossary-of-paper-terms",
+    "title": "Glossary of Paper Sustainability Terms",
+    "category": "research",
+    "author": "Paper Foundation Editorial",
+    "excerpt": "A plain-English reference for the terms you'll meet in any serious discussion of paper, recycling and circularity — explained without jargon and linked to primary sources.",
+    "body": "<h2>Agri-residue</h2><p>Crop residue used as a paper-making feedstock. In India, primarily wheat straw, rice straw and sugarcane bagasse.</p><h2>Biogenic carbon</h2><p>Carbon that originated in the biosphere (in this case, in trees) rather than from fossil fuels. The IPCC Harvested Wood Products methodology accounts for biogenic carbon stored in long-life wood products<sup data-cite=\"1\">[1]</sup>.</p><h2>Chain of custody</h2><p>A verified record showing material has moved through a defined supply chain — used in FSC, PEFC and recycled-content certifications.</p><h2>EPR (Extended Producer Responsibility)</h2><p>A policy approach making producers responsible for the end-of-life of the packaging they put on the market. India notified updated EPR rules in 2022<sup data-cite=\"2\">[2]</sup>.</p><h2>Farm forestry</h2><p>Trees grown on private farmer land for commercial harvest. The dominant source of pulpwood in India.</p><h2>Fibre furnish</h2><p>The total mix of fibres going into a paper machine — virgin, recycled, agri-residue.</p><h2>FSC / PEFC</h2><p>Two major global forest certification systems, with chain-of-custody guarantees for participating mills and brands<sup data-cite=\"3\">[3]</sup>.</p><h2>Recovered paper</h2><p>Paper collected after use and brought back into the recycling stream. Recovery rate is the fraction recovered relative to consumption.</p><h2>WARM Model</h2><p>The US EPA's Waste Reduction Model — an open lifecycle tool widely used for waste-management impact comparisons<sup data-cite=\"4\">[4]</sup>.</p>",
+    "references": [
+      { "title": "IPCC Harvested Wood Products methodology", "org": "IPCC", "url": "https://www.ipcc-nggip.iges.or.jp/" },
+      { "title": "EPR Notifications", "org": "MoEFCC", "url": "https://moef.gov.in/" },
+      { "title": "Forest certification — overview", "org": "FSC / PEFC", "url": "https://fsc.org/" },
+      { "title": "WARM Model", "org": "US EPA", "url": "https://www.epa.gov/warm" }
+    ],
+    "tags": ["glossary", "reference"],
+    "quickRead": true,
+    "featured": false,
+    "status": "draft"
+  }
+]

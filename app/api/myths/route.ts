@@ -1,0 +1,36 @@
+import { NextRequest } from "next/server";
+import { connectDB } from "@/lib/db";
+import { MythModel } from "@/lib/models";
+import { mythSchema } from "@/lib/validators";
+import { fail, ok, requireAdmin } from "@/lib/api";
+import { slugify } from "@/lib/utils";
+
+export async function GET(req: NextRequest) {
+  try {
+    await connectDB();
+  } catch {
+    return ok([]);
+  }
+  const sp = req.nextUrl.searchParams;
+  const session = await requireAdmin();
+  const filter: Record<string, unknown> = {};
+  if (sp.get("status")) filter.status = sp.get("status");
+  else if (!session) filter.status = "published";
+  if (sp.get("category")) filter.category = sp.get("category");
+  const docs = await MythModel.find(filter).sort({ featured: -1, createdAt: -1 }).lean();
+  return ok(docs);
+}
+
+export async function POST(req: NextRequest) {
+  const session = await requireAdmin();
+  if (!session) return fail("Unauthorized", 401);
+  await connectDB();
+  const body = await req.json();
+  body.slug = body.slug || slugify(body.myth || "");
+  const parsed = mythSchema.safeParse(body);
+  if (!parsed.success) return fail(parsed.error.issues[0]?.message || "Invalid payload");
+  const exists = await MythModel.findOne({ slug: parsed.data.slug }).lean();
+  if (exists) return fail("Slug already exists", 409);
+  const doc = await MythModel.create(parsed.data);
+  return ok(doc);
+}
