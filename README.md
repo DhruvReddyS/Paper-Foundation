@@ -69,3 +69,4 @@ This project is built around a few non-negotiables — they should survive in co
 - Cite, don't summarise vaguely.
 - Corrections are dated and visible — never silent edits.
 # Paper-Foundation
+# Paper-Foundation
