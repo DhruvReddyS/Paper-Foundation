@@ -1,0 +1,301 @@
+[
+  {
+    "slug": "paper-destroys-forests",
+    "myth": "Using paper destroys India's forests.",
+    "fact": "Most Indian paper mills run on agri-residue and farm-forestry plantations — not on natural forests.",
+    "explanation": "According to industry data from IPMA and CPPRI, the wood used by Indian mills is largely sourced from plantations on farmer land (eucalyptus, casuarina, subabul, poplar). Agri-residues like wheat straw and bagasse contribute a substantial additional share of fibre. Wood from natural forests is a small minority of fibre furnish.",
+    "category": "forests",
+    "sources": [
+      { "org": "IPMA", "url": "https://ipma.co.in/" },
+      { "org": "CPPRI", "url": "https://cppri.res.in/" }
+    ],
+    "status": "published",
+    "featured": true
+  },
+  {
+    "slug": "recycled-is-always-greener",
+    "myth": "Recycled paper is always greener than virgin paper.",
+    "fact": "Usually, but not always — context decides.",
+    "explanation": "Recycling generally lowers paper's footprint, but the result depends on the mill's energy mix, transport distance for recovered fibre, water systems, and how much biogenic carbon would otherwise be stored in long-lived virgin product. EPA WARM and CEPI lifecycle tools both show recycled paper as preferable in most cases, with edge cases where the gap narrows or reverses.",
+    "category": "recycling",
+    "sources": [
+      { "org": "EPA WARM", "url": "https://www.epa.gov/warm" },
+      { "org": "CEPI", "url": "https://www.cepi.org/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "digital-saves-paper",
+    "myth": "Going digital saves trees and is automatically greener.",
+    "fact": "Digital shifts impact rather than removing it.",
+    "explanation": "The Shift Project and other lifecycle studies show that data centres, network traffic and device manufacturing carry their own carbon and material footprint. For short-life information, paper can carry a lower lifecycle impact than digital; for long-life information, digital is often better. The honest answer is: it depends on the use case.",
+    "category": "digital-vs-paper",
+    "sources": [
+      { "org": "The Shift Project", "url": "https://theshiftproject.org/en/lean-ict-2/" },
+      { "org": "Borderstep Institute", "url": "https://www.borderstep.org/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "paper-isnt-recycled-in-india",
+    "myth": "Paper isn't really recycled in India — it's just burnt or dumped.",
+    "fact": "India has a sizeable, mostly informal recovery system — and a paper recovery rate around 30%.",
+    "explanation": "CPPRI and IPMA data place India's domestic paper recovery rate around 30% and rising. Roughly 60% of fibre furnish used by mills is from recycled inputs (including imported recovered paper). The recovery chain is largely informal — wastepickers and kabadiwalas — and is gradually being formalised under the 2022 EPR rules.",
+    "category": "recycling",
+    "sources": [
+      { "org": "CPPRI", "url": "https://cppri.res.in/" },
+      { "org": "MoEFCC EPR", "url": "https://moef.gov.in/" }
+    ],
+    "status": "published",
+    "featured": true
+  },
+  {
+    "slug": "paper-uses-too-much-water",
+    "myth": "Paper mills use absurd amounts of water and that hasn't changed.",
+    "fact": "Specific water use per tonne of paper at Indian mills has dropped sharply since 2000 — and continues to fall.",
+    "explanation": "CPPRI's industry benchmarks show specific water consumption at large integrated Indian mills has dropped roughly 40% since 2000. Investments in closed-loop systems and Charter for Water-Efficient Pulp & Paper Industry commitments continue to push the number down — though water use remains significant and varies widely between mill types.",
+    "category": "industry",
+    "sources": [
+      { "org": "CPPRI", "url": "https://cppri.res.in/" },
+      { "org": "MoEFCC Charter", "url": "https://moef.gov.in/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "paper-can-be-recycled-infinitely",
+    "myth": "Paper can be recycled infinitely.",
+    "fact": "Paper fibres shorten with each cycle — typically 4–7 cycles before they need fresh fibre input.",
+    "explanation": "Each time paper is repulped, the cellulose fibres get shorter and lose strength. To maintain quality, recycled paper systems need a continuous input of fresh (virgin) fibre. This is why a viable circular paper system needs both sustainable virgin fibre sources and a high recovery rate — not either-or.",
+    "category": "circularity",
+    "sources": [
+      { "org": "CEPI Recycling", "url": "https://www.cepi.org/recycling/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "all-paper-uses-rainforest-trees",
+    "myth": "Paper is made from rainforest trees.",
+    "fact": "Globally, most pulp comes from managed plantations and certified forests; in India, plantations and agri-residue dominate.",
+    "explanation": "Global pulpwood production is dominated by managed plantations (eucalyptus, pine, acacia) and FSC/PEFC-certified forests. Rainforest pulp exists but is a small, often-disputed share and is the focus of major NGO and certifier pressure. In India specifically, farm-forestry plantations on private land and agri-residue make up the dominant fibre source.",
+    "category": "forests",
+    "sources": [
+      { "org": "FAO FRA 2020", "url": "https://www.fao.org/forest-resources-assessment/" },
+      { "org": "FSC", "url": "https://fsc.org/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "ebooks-always-beat-printed-books",
+    "myth": "E-readers and e-books are always lower-impact than printed books.",
+    "fact": "Only if you read enough on the device to amortise its manufacturing footprint.",
+    "explanation": "Lifecycle studies (including widely cited analyses by the Cleantech Group and others) suggest that the manufacturing carbon footprint of a single e-reader equates to roughly 30–100 printed books. For heavy readers who keep a device for years, e-readers win. For light readers, or where the device is replaced quickly, the printed book is often the lower-impact choice — especially if recycled or shared.",
+    "category": "digital-vs-paper",
+    "sources": [
+      { "org": "Cleantech Group LCA", "url": "https://www.cleantech.com/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "paper-bag-is-always-better-than-plastic",
+    "myth": "A paper bag is always better than a plastic bag.",
+    "fact": "Per use, a paper bag has a higher carbon and water footprint than a thin plastic bag — but end-of-life recovery and biodegradability differ sharply.",
+    "explanation": "Several European LCAs find that paper bags need to be reused 3–7 times to match the per-use carbon footprint of a single-use plastic bag, mainly because paper bags are heavier and use more water in manufacturing. However, paper bags are far more readily recycled and biodegradable, and don't accumulate in the marine environment the way plastic does. The honest verdict: reuse and end-of-life matter more than the substrate.",
+    "category": "industry",
+    "sources": [
+      { "org": "UK Environment Agency LCA", "url": "https://www.gov.uk/government/organisations/environment-agency" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "office-paper-bans-help-the-planet",
+    "myth": "Office-wide paper bans automatically reduce environmental impact.",
+    "fact": "Only if the digital replacement is actually less impactful — which often isn't measured.",
+    "explanation": "Many corporate 'paperless' policies report savings on a paper-vs-paper basis without accounting for cloud storage, device proliferation, and increased screen time. Where digital replaces deeply unnecessary printing, gains are real. Where it triggers more devices, more streaming and more cloud storage, net gains can be modest or negative. Measure both sides before claiming a win.",
+    "category": "digital-vs-paper",
+    "sources": [
+      { "org": "The Shift Project", "url": "https://theshiftproject.org/en/lean-ict-2/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "indian-mills-are-dirty",
+    "myth": "Indian paper mills are dirty and unregulated.",
+    "fact": "Large integrated Indian mills meet stringent CPCB norms and have invested heavily in effluent treatment.",
+    "explanation": "Under MoEFCC and CPCB rules, large integrated mills must comply with specific effluent, air and water benchmarks. Many leading mills are ISO 14001 certified and publish sustainability reports. Issues persist among small unorganised units, which is one of the reasons sector consolidation and EPR enforcement matter for environmental outcomes.",
+    "category": "industry",
+    "sources": [
+      { "org": "CPCB", "url": "https://cpcb.nic.in/" },
+      { "org": "MoEFCC", "url": "https://moef.gov.in/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "paper-is-not-circular",
+    "myth": "Paper has nothing to do with the circular economy.",
+    "fact": "Paper is one of the most genuinely circular materials in the global economy.",
+    "explanation": "Globally, paper recovery rates are around 60–70% in Europe and rising in Asia. Each tonne of recovered fibre displaces a meaningful share of virgin input. Fibre is recyclable multiple times, and modern Indian mills are increasingly designed with closed water loops, recovery boilers and chemical reuse. None of this means paper is automatically 'green' — but the circular plumbing is unusually well developed for a high-volume material.",
+    "category": "circularity",
+    "sources": [
+      { "org": "CEPI Key Stats", "url": "https://www.cepi.org/key-statistics/" }
+    ],
+    "status": "published",
+    "featured": true
+  },
+  {
+    "slug": "all-recycling-symbols-mean-the-same-thing",
+    "myth": "All those recycling triangles on paper packaging mean the same thing.",
+    "fact": "No — they signal different things: recyclability, recycled content, or compliance.",
+    "explanation": "The Mobius loop indicates a product can be recycled. A percentage inside the loop indicates recycled content. Other marks (e.g. FSC, PEFC) signal sustainable sourcing, not recyclability. India's EPR rules also introduced specific producer markings. Understanding which symbol means what is the first step to taking those claims seriously.",
+    "category": "recycling",
+    "sources": [
+      { "org": "FSC", "url": "https://fsc.org/" },
+      { "org": "PEFC", "url": "https://www.pefc.org/" }
+    ],
+    "status": "published",
+    "featured": false
+  },
+  {
+    "slug": "epr-doesnt-cover-paper",
+    "myth": "EPR rules in India apply only to plastic, not paper.",
+    "fact": "Paper-based packaging is increasingly covered under India's EPR framework, with phased producer obligations.",
+    "explanation": "The 2022 Plastic Waste Management Rules amendment, and subsequent paper-packaging notifications, set out targeted recovery and recycling obligations for producers, importers and brand owners. Implementation is uneven and contested in places, but the regulatory direction is clear: paper packaging is being brought under formal EPR.",
+    "category": "circularity",
+    "sources": [
+      { "org": "MoEFCC EPR Notification", "url": "https://moef.gov.in/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "tissue-paper-is-wasteful",
+    "myth": "All tissue paper is wasteful and indefensible.",
+    "fact": "Tissue impact depends heavily on hygiene context, substitution and fibre source.",
+    "explanation": "In healthcare and food settings, tissue substitutes for higher-impact options (laundered cloth with high water and energy cost, or single-use plastic). In other contexts, behaviour change beats substrate switching. Recycled-fibre tissues exist but have technical limits. As elsewhere: context first, substrate second.",
+    "category": "industry",
+    "sources": [
+      { "org": "ETT/Tissue World", "url": "https://www.tissueworldmagazine.com/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "wood-pulp-equals-deforestation",
+    "myth": "Any wood pulp in a product means deforestation.",
+    "fact": "Certified sourcing (FSC/PEFC) and plantation pulp largely decouple wood-pulp use from deforestation.",
+    "explanation": "FSC and PEFC certifications require demonstrated chain-of-custody from sustainably managed sources. Plantation pulpwood is a rotational crop, not a one-way cut. Issues remain — certification audits are imperfect, illegal logging persists in some regions — but the equation 'wood pulp = deforestation' is a category error in most modern supply chains.",
+    "category": "forests",
+    "sources": [
+      { "org": "FSC", "url": "https://fsc.org/" },
+      { "org": "PEFC", "url": "https://www.pefc.org/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "agri-residue-cant-make-good-paper",
+    "myth": "You can't make good paper from agri-residue like wheat straw.",
+    "fact": "India is one of the largest producers of agri-residue-based paper globally — and the quality is industrial-grade.",
+    "explanation": "Wheat straw, bagasse and rice straw produce viable pulp for writing, printing and packaging grades. Indian agri-residue mills supply major paper categories. Challenges around silica content, seasonal availability and water are real and being engineered against — not insurmountable barriers.",
+    "category": "industry",
+    "sources": [
+      { "org": "CPPRI Agri-residue research", "url": "https://cppri.res.in/" },
+      { "org": "IPMA", "url": "https://ipma.co.in/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "fsc-is-greenwash",
+    "myth": "Forest certification (FSC/PEFC) is just greenwashing.",
+    "fact": "Certification has limits and failures — but credible audits demonstrably reduce deforestation risk in covered supply chains.",
+    "explanation": "Independent reviews show certification has shortcomings — uneven audit quality, indigenous-rights gaps in some regions, and certifier independence questions. But studies (including by Rainforest Alliance and academic researchers) show certified concessions have measurably lower deforestation and better social outcomes than uncertified peers. Treating certification as either 'gold standard' or 'fraud' is too coarse.",
+    "category": "forests",
+    "sources": [
+      { "org": "FSC Watch / FSC", "url": "https://fsc.org/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "reading-on-screen-is-equivalent-to-paper",
+    "myth": "Reading on a screen is cognitively the same as reading on paper.",
+    "fact": "Research consistently shows small but reproducible comprehension and retention differences for longform content.",
+    "explanation": "Meta-analyses by Delgado et al. and earlier work by Mangen and colleagues find a 'screen inferiority effect' for comprehension of longform expository text, especially under time pressure. The effect is modest and disappears for short, simple text, but is robust enough that schools and publishers should not assume strict equivalence.",
+    "category": "digital-vs-paper",
+    "sources": [
+      { "org": "Delgado et al. 2018 meta-analysis", "url": "https://doi.org/10.1016/j.edurev.2018.09.003" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "packaging-substitution-always-helps",
+    "myth": "Switching from plastic to paper packaging is always an environmental win.",
+    "fact": "Substrate-by-substrate substitution without lifecycle thinking can shift impact, not reduce it.",
+    "explanation": "Paper packaging often has a higher unit carbon and water footprint than thin plastic for the same protective function. The advantages — recyclability, biodegradability, marine-litter reduction — are real and important, but vary by product, supply chain and end-of-life. A serious packaging decision needs LCA, not just a substrate swap.",
+    "category": "industry",
+    "sources": [
+      { "org": "Ellen MacArthur Foundation", "url": "https://ellenmacarthurfoundation.org/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "informal-recyclers-are-the-problem",
+    "myth": "Informal wastepickers are the problem with India's recycling.",
+    "fact": "They are the backbone of India's recovery system — formalising and protecting their work is the policy challenge.",
+    "explanation": "Studies by TERI, ILO and the Alliance of Indian Waste-Pickers find that informal recovery workers handle a majority of urban dry waste in many cities. Stigmatising or replacing them is both unjust and operationally counterproductive. EPR systems that integrate, formalise and pay these workers tend to outperform purely mechanised alternatives.",
+    "category": "recycling",
+    "sources": [
+      { "org": "TERI", "url": "https://www.teriin.org/" },
+      { "org": "AIW / WIEGO", "url": "https://www.wiego.org/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "all-paper-is-bleached-with-chlorine",
+    "myth": "All paper is bleached with chlorine gas — that's why it's so harmful.",
+    "fact": "Modern Indian and global mills overwhelmingly use ECF or TCF bleaching, not elemental chlorine.",
+    "explanation": "Elemental chlorine bleaching (the source of much past pollution) has been almost entirely phased out in modern mills. Elemental Chlorine Free (ECF) bleaching using chlorine dioxide is now standard, and Totally Chlorine Free (TCF) systems are growing. The widely reported dioxin and AOX figures from the 1980s are not a fair picture of today's mills.",
+    "category": "industry",
+    "sources": [
+      { "org": "CPPRI", "url": "https://cppri.res.in/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "paper-doesnt-store-carbon",
+    "myth": "Paper has nothing to do with carbon storage.",
+    "fact": "Paper products in use act as a temporary carbon store; the size of that store is climate-relevant.",
+    "explanation": "Wood-based paper holds biogenic carbon for the duration of its use. Long-lived paper products and high recovery rates extend this storage. The IPCC's Harvested Wood Products methodology recognises this storage in national greenhouse-gas accounting. It does not make paper carbon-neutral, but it is a real and accounted-for effect.",
+    "category": "circularity",
+    "sources": [
+      { "org": "IPCC HWP Guidelines", "url": "https://www.ipcc-nggip.iges.or.jp/" }
+    ],
+    "status": "draft",
+    "featured": false
+  },
+  {
+    "slug": "newsprint-is-disappearing-fast",
+    "myth": "Nobody reads newspapers any more, so newsprint is dying.",
+    "fact": "Newsprint demand has declined globally, but India remains a major newsprint and newspaper market.",
+    "explanation": "Globally, newsprint demand has fallen with digital news. In India, large-circulation print readership remains substantial (per IRS and AdEx India data), particularly in regional languages. The Indian newsprint market is contracting more slowly than developed-market peers — useful context when modelling future paper demand.",
+    "category": "industry",
+    "sources": [
+      { "org": "IRS / MRUC", "url": "https://www.mruc.net/" }
+    ],
+    "status": "draft",
+    "featured": false
+  }
+]

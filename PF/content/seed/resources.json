@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "fao-fra-2020",
+    "title": "Global Forest Resources Assessment 2020",
+    "type": "report",
+    "org": "Food and Agriculture Organization (FAO)",
+    "year": 2020,
+    "fileUrl": "https://www.fao.org/forest-resources-assessment/2020/en/",
+    "summary": "The FAO's flagship global assessment of forest area, change and management. Essential context for any claim about deforestation, plantation expansion or net forest change.",
+    "tags": ["forests", "global", "deforestation"],
+    "status": "published"
+  },
+  {
+    "slug": "cppri-overview",
+    "title": "Central Pulp & Paper Research Institute — Industry & Research",
+    "type": "report",
+    "org": "CPPRI, Ministry of Commerce & Industry",
+    "year": 2024,
+    "fileUrl": "https://cppri.res.in/",
+    "summary": "India's apex research institute for the pulp and paper industry. Publishes benchmarks for water, energy, emissions and fibre furnish — the most credible single source for Indian mill data.",
+    "tags": ["India", "industry", "benchmarks"],
+    "status": "published"
+  },
+  {
+    "slug": "ipma-industry-overview",
+    "title": "Indian Paper Industry — Overview",
+    "type": "report",
+    "org": "Indian Paper Manufacturers Association (IPMA)",
+    "year": 2024,
+    "fileUrl": "https://ipma.co.in/paper-industry-india/",
+    "summary": "IPMA's industry overview covering capacity, fibre mix, growth trajectory and policy environment. Industry-association data — read alongside CPPRI for triangulation.",
+    "tags": ["India", "industry"],
+    "status": "published"
+  },
+  {
+    "slug": "moefcc-epr-paper-packaging",
+    "title": "EPR Framework Notifications (Plastic & Paper Packaging)",
+    "type": "policy",
+    "org": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+    "year": 2022,
+    "fileUrl": "https://moef.gov.in/",
+    "summary": "The 2022 EPR notifications and subsequent guidelines set out producer obligations for packaging recovery and recycling in India.",
+    "tags": ["policy", "EPR", "packaging"],
+    "status": "published"
+  },
+  {
+    "slug": "epa-warm",
+    "title": "EPA Waste Reduction Model (WARM)",
+    "type": "dataset",
+    "org": "US Environmental Protection Agency",
+    "year": 2023,
+    "fileUrl": "https://www.epa.gov/warm",
+    "summary": "WARM models lifecycle greenhouse-gas and energy impacts of waste management for dozens of material streams, including multiple paper grades.",
+    "tags": ["lifecycle", "recycling", "carbon"],
+    "status": "published"
+  },
+  {
+    "slug": "cepi-key-statistics",
+    "title": "CEPI Key Statistics — European Pulp & Paper Industry",
+    "type": "dataset",
+    "org": "Confederation of European Paper Industries (CEPI)",
+    "year": 2024,
+    "fileUrl": "https://www.cepi.org/key-statistics/",
+    "summary": "Annual statistical compendium for the European pulp and paper industry — useful global comparator for Indian benchmarks.",
+    "tags": ["global", "recycling", "industry"],
+    "status": "published"
+  },
+  {
+    "slug": "two-sides-myths-and-facts",
+    "title": "Myths & Facts about Print, Paper and Paper Packaging",
+    "type": "guide",
+    "org": "Two Sides Global",
+    "year": 2024,
+    "fileUrl": "https://twosides.info/",
+    "summary": "Two Sides is an industry initiative; its myths-and-facts material is well-sourced but should be read alongside independent academic and NGO sources.",
+    "tags": ["communication", "myths"],
+    "status": "published"
+  },
+  {
+    "slug": "shift-project-lean-ict",
+    "title": "Lean ICT — Towards Digital Sobriety",
+    "type": "report",
+    "org": "The Shift Project",
+    "year": 2019,
+    "fileUrl": "https://theshiftproject.org/en/lean-ict-2/",
+    "summary": "Influential analysis of the environmental footprint of digital — essential reading for any 'digital vs paper' comparison.",
+    "tags": ["digital", "lifecycle"],
+    "status": "published"
+  },
+  {
+    "slug": "ipcc-harvested-wood-products",
+    "title": "IPCC Guidelines — Harvested Wood Products (Vol 4, Ch 12)",
+    "type": "policy",
+    "org": "Intergovernmental Panel on Climate Change",
+    "year": 2019,
+    "fileUrl": "https://www.ipcc-nggip.iges.or.jp/",
+    "summary": "The methodology behind national accounting for carbon stored in harvested wood products, including paper.",
+    "tags": ["carbon", "accounting"],
+    "status": "published"
+  },
+  {
+    "slug": "delgado-meta-analysis",
+    "title": "Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension",
+    "type": "report",
+    "org": "Delgado, Vargas, Ackerman & Salmerón (Educational Research Review)",
+    "year": 2018,
+    "fileUrl": "https://doi.org/10.1016/j.edurev.2018.09.003",
+    "summary": "Meta-analysis of 54 studies on paper-versus-screen reading comprehension. Finds a small but reliable advantage for paper on longer, expository text.",
+    "tags": ["digital", "reading", "research"],
+    "status": "published"
+  }
+]

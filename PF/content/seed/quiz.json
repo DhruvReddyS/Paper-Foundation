@@ -1,0 +1,58 @@
+[
+  {
+    "statement": "Most pulp used in Indian paper mills comes from natural forests.",
+    "answer": false,
+    "explanation": "The bulk of fibre furnish for Indian paper mills comes from agri-residue (wheat straw, bagasse) and farm-forestry plantations grown by farmers on private land — not from natural forests.",
+    "sources": [{ "org": "IPMA", "url": "https://ipma.co.in/" }, { "org": "CPPRI", "url": "https://cppri.res.in/" }],
+    "order": 1,
+    "active": true
+  },
+  {
+    "statement": "Recycled paper is always greener than virgin paper.",
+    "answer": false,
+    "explanation": "Lifecycle context matters. Recycling generally lowers impact, but factors like the energy mix of the mill, transport distance for recovered fibre, and loss of biogenic carbon credit can shift the balance.",
+    "sources": [{ "org": "EPA WARM", "url": "https://www.epa.gov/warm" }, { "org": "CEPI", "url": "https://www.cepi.org/" }],
+    "order": 2,
+    "active": true
+  },
+  {
+    "statement": "Going fully digital eliminates the environmental footprint of paper.",
+    "answer": false,
+    "explanation": "Digital substitution shifts impact rather than removing it: device manufacturing, data centre energy and short replacement cycles carry their own carbon and resource footprint.",
+    "sources": [{ "org": "The Shift Project", "url": "https://theshiftproject.org/en/lean-ict-2/" }],
+    "order": 3,
+    "active": true
+  },
+  {
+    "statement": "India is one of the fastest-growing paper markets in the world.",
+    "answer": true,
+    "explanation": "India is among the fastest-growing markets globally, driven by packaging, hygiene and education segments. Per-capita consumption remains far below the world average.",
+    "sources": [{ "org": "IPMA Industry Overview", "url": "https://ipma.co.in/paper-industry-india/" }],
+    "order": 4,
+    "active": true
+  },
+  {
+    "statement": "Paper recycling in India is mostly handled by formal companies.",
+    "answer": false,
+    "explanation": "India's paper recovery system is largely informal — driven by waste-pickers and kabadiwalas. Extended Producer Responsibility (EPR) rules notified in 2022 are gradually formalising parts of the chain.",
+    "sources": [{ "org": "MoEFCC EPR Notification", "url": "https://moef.gov.in/" }, { "org": "TERI", "url": "https://www.teriin.org/" }],
+    "order": 5,
+    "active": true
+  },
+  {
+    "statement": "Paper can be recycled an unlimited number of times.",
+    "answer": false,
+    "explanation": "Paper fibres shorten and degrade with each recycling cycle. In practice, fibres can typically be recycled 4–7 times before they need to be supplemented or replaced by fresh fibre.",
+    "sources": [{ "org": "CEPI", "url": "https://www.cepi.org/recycling/" }],
+    "order": 6,
+    "active": true
+  },
+  {
+    "statement": "A tree cut down for paper is gone forever.",
+    "answer": false,
+    "explanation": "Most pulpwood in India comes from planted, harvested and replanted plantations on farmer lands — a rotational crop, not deforestation. Native forests are not the primary source.",
+    "sources": [{ "org": "ICFRE Farm Forestry", "url": "https://icfre.gov.in/" }],
+    "order": 7,
+    "active": true
+  }
+]
